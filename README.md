@@ -7,14 +7,14 @@ Appendix III: digital appendix for Msc thesis Emma Polman "A quantitative assess
 
 This appendix contains:
 1) geopark polygon shapefile
-	a) folder--> "shapefile_geopark_areas"
+	a) folder--> "shapefile_geopark_areas" in zip file
 
 2) model and data analysis Python scripts
 	a) create and take random samples from GI and HI --> "Random_samples 1-3"
 	b) import data to Python environment --> "import_results_for_data_analysis.py"
 	c) data analysis and visualisation scripts --> all other .py files
 
-3) tables with model results 
+3) tables with model results (all in zip file)
 	a) results_GI_HI --> geodiversity index and human influence (change) stats for random samples and geoparks
 	b) results_lithology --> number of grid cells for lithology types on continents and geoparks
 	c) results_soils --> number of grid cells for soil types on continents and geoparks 
